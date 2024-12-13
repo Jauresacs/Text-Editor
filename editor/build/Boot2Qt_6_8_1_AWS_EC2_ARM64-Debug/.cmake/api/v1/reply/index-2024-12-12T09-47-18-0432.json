@@ -1,0 +1,89 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"multiConfig" : false,
+			"name" : "Ninja"
+		},
+		"paths" : 
+		{
+			"cmake" : "C:/Qt/6.8.1/Boot2Qt/aws-ec2-arm64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/cmake.exe",
+			"cpack" : "C:/Qt/6.8.1/Boot2Qt/aws-ec2-arm64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/cpack.exe",
+			"ctest" : "C:/Qt/6.8.1/Boot2Qt/aws-ec2-arm64/toolchain/sysroots/x86_64-w64-mingw32/usr/bin/ctest.exe",
+			"root" : "C:/Qt/6.8.1/Boot2Qt/aws-ec2-arm64/toolchain/sysroots/x86_64-w64-mingw32/usr/share/cmake-3.28"
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 3,
+			"minor" : 28,
+			"patch" : 3,
+			"string" : "3.28.3",
+			"suffix" : ""
+		}
+	},
+	"objects" : 
+	[
+		{
+			"jsonFile" : "codemodel-v2-a81a6b7a720e392d5edb.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 6
+			}
+		},
+		{
+			"jsonFile" : "cache-v2-c15675cad251585da995.json",
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		},
+		{
+			"jsonFile" : "cmakeFiles-v1-2eee7dc1bb36c36072e2.json",
+			"kind" : "cmakeFiles",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		}
+	],
+	"reply" : 
+	{
+		"cache-v2" : 
+		{
+			"jsonFile" : "cache-v2-c15675cad251585da995.json",
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		},
+		"cmakeFiles-v1" : 
+		{
+			"jsonFile" : "cmakeFiles-v1-2eee7dc1bb36c36072e2.json",
+			"kind" : "cmakeFiles",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		},
+		"codemodel-v2" : 
+		{
+			"jsonFile" : "codemodel-v2-a81a6b7a720e392d5edb.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 6
+			}
+		}
+	}
+}

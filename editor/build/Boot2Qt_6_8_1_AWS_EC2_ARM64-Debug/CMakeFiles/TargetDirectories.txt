@@ -1,0 +1,9 @@
+C:/Users/jaure/OneDrive/Documents/editor/build/Boot2Qt_6_8_1_AWS_EC2_ARM64-Debug/CMakeFiles/editor.dir
+C:/Users/jaure/OneDrive/Documents/editor/build/Boot2Qt_6_8_1_AWS_EC2_ARM64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/jaure/OneDrive/Documents/editor/build/Boot2Qt_6_8_1_AWS_EC2_ARM64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jaure/OneDrive/Documents/editor/build/Boot2Qt_6_8_1_AWS_EC2_ARM64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/jaure/OneDrive/Documents/editor/build/Boot2Qt_6_8_1_AWS_EC2_ARM64-Debug/CMakeFiles/install.dir
+C:/Users/jaure/OneDrive/Documents/editor/build/Boot2Qt_6_8_1_AWS_EC2_ARM64-Debug/CMakeFiles/install/local.dir
+C:/Users/jaure/OneDrive/Documents/editor/build/Boot2Qt_6_8_1_AWS_EC2_ARM64-Debug/CMakeFiles/install/strip.dir
+C:/Users/jaure/OneDrive/Documents/editor/build/Boot2Qt_6_8_1_AWS_EC2_ARM64-Debug/CMakeFiles/editor_autogen_timestamp_deps.dir
+C:/Users/jaure/OneDrive/Documents/editor/build/Boot2Qt_6_8_1_AWS_EC2_ARM64-Debug/CMakeFiles/editor_autogen.dir

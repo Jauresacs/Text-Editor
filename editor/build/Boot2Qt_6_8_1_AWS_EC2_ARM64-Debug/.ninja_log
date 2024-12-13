@@ -1,0 +1,7 @@
+# ninja log v5
+32	1540	7557002027234849	editor_autogen/timestamp	aeec51cf18af9cac
+32	1540	7557002027234849	editor_autogen/mocs_compilation.cpp	aeec51cf18af9cac
+32	1540	7557002027234849	C:/Users/jaure/OneDrive/Documents/editor/build/Boot2Qt_6_8_1_AWS_EC2_ARM64-Debug/editor_autogen/timestamp	aeec51cf18af9cac
+32	1540	7557002027234849	C:/Users/jaure/OneDrive/Documents/editor/build/Boot2Qt_6_8_1_AWS_EC2_ARM64-Debug/editor_autogen/mocs_compilation.cpp	aeec51cf18af9cac
+1542	6905	7557002082170127	CMakeFiles/editor.dir/editor_autogen/mocs_compilation.cpp.o	14dba45e0babc767
+1559	6971	7557002082783703	CMakeFiles/editor.dir/mainwindow.cpp.o	8b4e5309575d4eda
